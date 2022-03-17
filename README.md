@@ -1,4 +1,4 @@
-# blockchain
+# Ne işe yarar
 Address : Tüm hesap ve akıllı sözleşmelerin bir adresi vardır. Hesaplar arasında ether aktarımı için kullanılır.
 
 Mapping : İlişkileri barındırmak için kullanılan veri türüdür. List e benzer şekilde 2 değer tutar ve hızlıca gönderilen anahtara karşılık gelen değeri almayı sağlar.
