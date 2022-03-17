@@ -31,10 +31,3 @@ contract myGame{
         return players[playerAddress].playerLevel;
     }
 }
-
-/*
-constant : değişkene atanan değer solidity ye değiştirilemez olduğunu söyler.
-struct : Struct türü kayıt oluşturmak için kullanılır. Kendi veri türünüzü oluşturmanızı sağlar.
-enum : daha önce belirlenen değerlerden birini almayı sağlar.
-aray : Player[] public players;
-*/
