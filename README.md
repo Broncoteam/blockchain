@@ -1,6 +1,8 @@
 # blockchain
 Address : Tüm hesap ve akıllı sözleşmelerin bir adresi vardır. Hesaplar arasında ether aktarımı için kullanılır.
+
 Mapping : İlişkileri barındırmak için kullanılan veri türüdür. List e benzer şekilde 2 değer tutar ve hızlıca gönderilen anahtara karşılık gelen değeri almayı sağlar.
+
 Event : Event çağırıldığında arumanların işlem geçmişinde tutulmasını sağlar.
 Emit : Event ları çağırmaya yarayan sözcüktür. 
 Constructor : Contract oluşturulduğunda çalıştırılan fonksiyondur.
