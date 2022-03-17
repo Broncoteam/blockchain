@@ -36,7 +36,3 @@ contract Coin{
         emit Sent(msg.sender, reciever, amount);
     }
 }
-
-/*
-modifier : işlevlerin davranışını bildirimsel bir şekilde değiştirmek için kullanılabilir. Örneğin, işlevin yürütülmesinden önce bir koşulun otomatik olarak kontrol edilmesi için bir değiştirici kullanabilirsiniz.
-*/
